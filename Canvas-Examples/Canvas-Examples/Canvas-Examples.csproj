@@ -24,6 +24,7 @@
   <ItemGroup>
     <Content Include="index.html" />
     <Content Include="Scripts\rectangle.js" />
+    <Content Include="Scripts\smileyFace.js" />
     <Content Include="Scripts\star.js" />
     <Content Include="Scripts\triangle.js" />
     <Content Include="web.config" />
