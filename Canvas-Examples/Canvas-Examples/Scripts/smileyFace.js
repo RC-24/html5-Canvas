@@ -18,7 +18,7 @@ function drawSmileyFace() {
 
     // Smile
     renderingContext.moveTo(700, 500);
-    renderingContext.arc(500, 500, 200, 0, Math.PI)
+    renderingContext.arc(500, 500, 200, 0, Math.PI);
 
     renderingContext.stroke();
 }
