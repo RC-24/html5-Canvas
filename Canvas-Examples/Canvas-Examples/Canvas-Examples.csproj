@@ -23,6 +23,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="index.html" />
+    <Content Include="Scripts\animatedCircle.js" />
     <Content Include="Scripts\circleSegments.js" />
     <Content Include="Scripts\randomCircles.js" />
     <Content Include="Scripts\rectangle.js" />
