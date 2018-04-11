@@ -24,6 +24,7 @@
   <ItemGroup>
     <Content Include="index.html" />
     <Content Include="Scripts\circleSegments.js" />
+    <Content Include="Scripts\randomCircles.js" />
     <Content Include="Scripts\rectangle.js" />
     <Content Include="Scripts\smileyFace.js" />
     <Content Include="Scripts\star.js" />

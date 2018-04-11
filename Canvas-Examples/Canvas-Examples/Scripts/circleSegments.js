@@ -17,6 +17,6 @@ function drawCircleSegments() {
             renderingContext.closePath();
             renderingContext.moveTo((100 * (i + 1)) + 40, 200 * j);
         }
-        (j % 2 == 0) ? renderingContext.stroke() : renderingContext.fill();
+        (j % 2 === 0) ? renderingContext.stroke() : renderingContext.fill();
     }
 }
